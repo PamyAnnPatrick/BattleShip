@@ -1,0 +1,6 @@
+D:\Pamy\Leet Code\BattleShip_419\BattleShip_419\bin\Debug\BattleShip_419.exe.config
+D:\Pamy\Leet Code\BattleShip_419\BattleShip_419\bin\Debug\BattleShip_419.exe
+D:\Pamy\Leet Code\BattleShip_419\BattleShip_419\bin\Debug\BattleShip_419.pdb
+D:\Pamy\Leet Code\BattleShip_419\BattleShip_419\obj\Debug\BattleShip_419.csprojAssemblyReference.cache
+D:\Pamy\Leet Code\BattleShip_419\BattleShip_419\obj\Debug\BattleShip_419.exe
+D:\Pamy\Leet Code\BattleShip_419\BattleShip_419\obj\Debug\BattleShip_419.pdb
